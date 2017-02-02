@@ -1,0 +1,1 @@
+C:\Users\chrzuszczk\Documents\Planetarium2\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\ARM\Release\ARM\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
